@@ -1,0 +1,24 @@
+id,name,is_hazmat_prone
+1,Healthcare / Pharmacy Products,False
+2,FMCG / Food Items,False
+3,Electrical / Electronics / Home Appliances,False
+4,Books / Stationery / Toys / Gifts,False
+5,Aluminium / Steel / Metal Products,False
+6,Electrical Transformer,False
+7,Building / Construction Material,False
+8,Paint / Houseware Supplies,False
+9,Engineering Goods,False
+10,Textile / Garments,False
+11,Plastic / PVC / Rubber,False
+12,Furniture / Plywood / Laminate,False
+13,ODC Consignment,False
+14,Industrial Machinery,False
+15,Household & Office Items,False
+16,Chemicals and Liquid Barrels,True
+17,Electrical Panels / Equipments / Spare Parts,False
+18,Solar Products,False
+19,Ceramic / Hardware Supplies,False
+20,Paper / Packaging / Printed Material,False
+21,Exhibition / Event Supplies,False
+22,Electrical Wires / Cables,False
+23,Others,False
